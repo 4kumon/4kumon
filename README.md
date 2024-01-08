@@ -66,4 +66,4 @@ I have been fascinated with computing since childhood and currently I have dedic
 
 [![L4TN](https://github-readme-stats.vercel.app/api/top-langs/?username=L4TN&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/L4TN/)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
