@@ -12,7 +12,7 @@
 
 <h3 align="center">  <br>
 
-Hello, I'm ̶Ane!
+Hello, I'm Ane!
 <br>
 
 </h3>
