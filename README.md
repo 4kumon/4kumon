@@ -17,7 +17,7 @@ Hello, I'm Ane!
 
 ```
 Student of Systems Analysis and Development at FATEC SP - Faculty of Technology of the State of São Paulo,
-I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a better Fullstack Dev.
+I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a better QA.
 ```
 
 ## Technologies and Frameworks that i am currently studying 💻
