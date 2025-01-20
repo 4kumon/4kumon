@@ -24,16 +24,16 @@ I have been fascinated with computing since childhood and currently I have dedic
 
 ## Technologies and Frameworks that i am currently studying 💻
 
-  - Python, Angular and Typescript/Javascript
-  - C# .NET and Azure
-  - Git, DevExpress and Nebular
+  - Python and Javascript;
+  - Azure DevOps, Power Platform and Dynamics 365;
+  - Smart Prompts and Quality Control Analyst
 
 ## Some facts about me 👨🏻‍💻
 
 - I love to know new things, work in groups and get new experiences. I want to work around the world, improving my English and meet new cultures, people and have new experiences. 😄
 - I like coding interviews questions about Data Structures and Algorithm Analysis because i believe that the basis is key to mastering skills. 💻
-- I really appreciate Sci-Fi, like Blade Runner, Foundation, Dune, Cyberpunk, and above all, Solarpunk.
-- I love RPG Tabletop like DnD and Call of Cthulhu. 🎲
+- I really appreciate Blade Runner, Foundation, Dune, Cyberpunk, and above all, Solarpunk.
+- I love games. 🎲
 
 
 ## My data on Github
@@ -48,9 +48,7 @@ I have been fascinated with computing since childhood and currently I have dedic
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/L4TN)](https://www.linkedin.com/in/matt-sousa-dias/)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://github.com/L4TN)](https://dev.to/latn)
-[![Dev.to Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://github.com/L4TN)](https://medium.com/@l4tn)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/4kumon)](https://www.linkedin.com/in/adriane-gimenez/)
 
 </h4>
 
@@ -62,8 +60,8 @@ I have been fascinated with computing since childhood and currently I have dedic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4TN&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4kumon&show_icons=true&theme=tokyonight)
 
-[![L4TN](https://github-readme-stats.vercel.app/api/top-langs/?username=L4TN&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/L4TN/)
+[![4kumon](https://github-readme-stats.vercel.app/api/top-langs/?username=4kumon&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/4kumon/)
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
