@@ -4,9 +4,7 @@
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/L4TN)](https://www.linkedin.com/in/matt-sousa-dias/)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://github.com/L4TN)](https://dev.to/latn)
-[![Dev.to Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://github.com/L4TN)](https://medium.com/@l4tn)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/4kumon)](https://www.linkedin.com/in/adriane-gimenez/)
 
 </h4>
 
