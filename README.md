@@ -60,6 +60,4 @@ I have been fascinated with computing since childhood and currently I have dedic
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4kumon&show_icons=true&theme=tokyonight)
 
-![4kumon](https://github-readme-stats.vercel.app/api/top-langs/?username=4kumon&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/4kumon/)
-
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
